@@ -1,0 +1,15 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	background-color: black;
+	color: white;
+}
+.container {
+	width: 600px;
+	height: 300px;
+	margin: 200px auto;
+	padding: 100px;
+	text-align: center;
+	font-size: 85px;
+}
